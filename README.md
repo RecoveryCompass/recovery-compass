@@ -1,7 +1,7 @@
 # recovery-compass
 Recovery Compass is an open-source digital support platform designed to help individuals transition from inpatient substance abuse treatment—or early recovery—back into everyday life. This is a critical and often overlooked period marked by high relapse risk, emotional volatility, and a lack of coordinated support.
 
-About
+
 Recovery Compass provides a structured support system to help users navigate the emotional, practical, and social challenges of early recovery. Features include:
 
 Daily emotional check-ins
